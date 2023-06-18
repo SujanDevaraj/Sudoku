@@ -1,8 +1,8 @@
 # Sudoku
--> The game consists of a 9x9 grid of boxes that can be filled with digits from 1 to 9.
--> The game has a RESET button, an EXIT button, a SOLUTION button, and a CHECK MOVE button.
--> The RESET button empties the whole grid, the EXIT button closes the execution, the SOLUTION button fills the grid with expected solutions, and the CHECK MOVE        button checks whether the move is correct or not.
--> The game grid consists of 9 rows and 9 columns, which are buttons that can be clicked to fill the digit in the box.
+1. The game consists of a 9x9 grid of boxes that can be filled with digits from 1 to 9.
+2. The game has a RESET button, an EXIT button, a SOLUTION button, and a CHECK MOVE button.
+3. The RESET button empties the whole grid, the EXIT button closes the execution, the SOLUTION button fills the grid with expected solutions, and the CHECK MOVE        button checks whether the move is correct or not.
+4. The game grid consists of 9 rows and 9 columns, which are buttons that can be clicked to fill the digit in the box.
 
 ##########################################################################################################################################
 
