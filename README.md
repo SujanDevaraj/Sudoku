@@ -4,7 +4,7 @@
 3. The RESET button empties the whole grid, the EXIT button closes the execution, the SOLUTION button fills the grid with expected solutions, and the CHECK MOVE        button checks whether the move is correct or not.
 4. The game grid consists of 9 rows and 9 columns, which are buttons that can be clicked to fill the digit in the box.
 
-##########################################################################################################################################
+###################################################################################
 
 Technologies used in this project:
 1. The project will primarily use Java language for coding.
